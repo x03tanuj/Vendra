@@ -50,7 +50,7 @@ No noise, no gimmicks — just the essentials for investors who value clarity ov
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/vendra.git
+git clone https://github.com/x03tanuj/vendra.git
 
 # Navigate to project folder
 cd vendra
